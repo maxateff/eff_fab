@@ -35,7 +35,7 @@ $  rake db:migrate
 $  rake db:seed
 ```
 
-Now you can boot up the server
+Now you can boot up the server  
 ```
 $  rails s
 ```
