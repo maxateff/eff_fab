@@ -19,7 +19,7 @@ Learn more about [Installing Rails](https://railsapps.github.io/installing-rails
 
 Getting Started
 ---------------
-
+ 
 Install dependencies, or use [mah vagrant box](https://github.com/TheNotary/ruby_vagrant_box).
 
 ```
